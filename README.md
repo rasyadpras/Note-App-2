@@ -32,6 +32,6 @@ Rating : ⭐⭐⭐⭐
 #### Link Preview
 
 - [Github Pages](https://rasyadpras.github.io/Note-App-2/)
-- [Vercel](note-app-2-rasyadpras.vercel.app/)
+- [Vercel](https://note-app-2-rasyadpras.vercel.app/)
 
 Dokumen Pendukung : [Sertifikat](https://www.dicoding.com/certificates/1RXYOJVKMPVM)
