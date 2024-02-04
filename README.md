@@ -15,9 +15,9 @@ Proyek ini dibangun sebagai proyek pertama di kelas [Belajar Fundamental Aplikas
 
 ## Kriteria Tambahan (Opsional)
 
-- Arsip Catatan.
-- Pencarian catatan.
-- 404 Pages.
+- (Opsional) Arsip Catatan.
+- (Opsional) Pencarian catatan.
+- (Opsional) 404 Pages.
 
 ## Jalankan di Lokal
 
